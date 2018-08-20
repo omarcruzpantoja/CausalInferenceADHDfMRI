@@ -1,0 +1,25 @@
+Final resting state data report
+
+
+Logistic regression
+Logistic regression with resting state raw data accuracy:0.717948717949
+
+Support Vector Machine Linear Classifier
+Resting state featured variables SVC fask accuracy:0.564102564103
+Resting state with featured variables SVC 2step accuracy:0.320512820513
+
+Random Forest Classifier
+Resting state with featured variables RF fask accuracy:0.474358974359
+Resting state with featured variables RF 2step accuracy:0.307692307692
+
+Naive Bayes Classifier
+Resting state with featured variables NB fask accuracy:0.628205128205
+Resting state with featured variables NB 2step accuracy:0.487179487179
+
+Linear discriminant classifier
+Resting state with featured variables linear discriminant fask accuracy:0.564102564103
+Resting state with featured variables linear discriminant 2step accuracy:0.525641025641
+
+Neural Network
+Resting state with featured variables neural network fask accuracy:0.512820512821
+Resting state with featured variables neural network 2step accuracy:0.410256410256

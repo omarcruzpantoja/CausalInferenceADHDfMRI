@@ -1,0 +1,25 @@
+Final bart task data report
+
+
+Logistic regression
+Logistic regression with task related (BART) raw data accuracy::0.75
+
+Support Vector Machine Linear Classifier
+BART task with featured variables SVC fask accuracy:0.475
+BART task with featured variables SVC 2step accuracy:0.525
+
+Random Forest Classifier
+BART task with featured variables RF fask accuracy:0.4375
+BART task with featured variables RF 2step accuracy:0.525
+
+Naive Bayes Classifier
+BART task with featured variables NB fask accuracy:0.6
+BART task with featured variables NB 2step accuracy:0.5
+
+Linear discriminant classifier
+BART task with featured variables linear discriminant fask accuracy:0.425
+BART task with featured variables linear discriminant 2step accuracy:0.4
+
+Neural Network
+BART task with featured variables neural network fask accuracy:0.55
+BART task with featured variables neural network 2step accuracy:0.5
